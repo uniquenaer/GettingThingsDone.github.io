@@ -16,7 +16,9 @@ excerpt: "很多领域，最开始的小小优势会点燃一系列事情的发�
   {% endfor %}
 </ul>
 
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html
+}}
+
 
 ## 做事是有方法的
 
