@@ -21,6 +21,14 @@ layout: default
     </div>
   </div>
   
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
   {% endfor %}
   <!--<ul class="post-list">
