@@ -18,3 +18,5 @@ github_username:  GettingThingsDone
 markdown: kramdown
 kramdown:
    input: GFM 
+   
+excerpt_separator:  '<!-- more -->'
