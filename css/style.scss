@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "PT Sans", Helvetica, Arial, sans-serif;
+$base-font-family: "PT Sans", Helvetica, Arial, sans-serif, STXihei, "华文细黑", "Microsoft Yahei", "微软雅黑";;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -569,13 +569,13 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 36px;
 
   text-align: center;
-  font-family: "PT Sans";
+  font-family: "PT Sans", Helvetica, Arial, sans-serif, STXihei, "华文细黑", "Microsoft Yahei", "微软雅黑";
   font-weight: 900;
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 .post-content {
