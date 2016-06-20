@@ -2,7 +2,7 @@
 layout: post
 title:  "刻意联系和乘数效应"
 date:   2016-02-02 19:45:31 +0100
-categories: ["Learn","Reading"]
+categories: ["learn","Reading"]
 excerpt: "很多领域，最开始的小小优势会点燃一系列事情的发生，造成更大的优势。"
    
 ---
