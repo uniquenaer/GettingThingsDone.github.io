@@ -17,7 +17,8 @@ excerpt: "很多领域，最开始的小小优势会点燃一系列事情的发�
 
 书的开篇就以一个人们一直孜孜以求的疑问开始——伟大成就来自哪里？
 
-why we're surrounded by so manypeople who have worked hard for decades but have never approached greatness.
+> why we're surrounded by so manypeople who have worked hard for decades but have never approached greatness.
+
 为什么我们周围很多人辛苦工作了几十年，但却从来没有创造出伟大业绩？
 
 看看我们周围那么多人品不错、工作勤奋，己经工作了二十年、三十年甚至四十年的同事、亲友，为什么他们没有因此而成为更优秀的人?甚至更为残酷的现实是，他们中几乎没有多少人能够达成或者接近达成伟大成就。
