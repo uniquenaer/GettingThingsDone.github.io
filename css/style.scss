@@ -360,7 +360,6 @@ pre {
   text-transform: uppercase;
   letter-spacing: 3px;
   text-indent: 3px;
-  padding-top:1em;
 }
 /**
  * Site header
@@ -575,6 +574,7 @@ pre {
   text-align: center;
   font-family: "PT Sans", Helvetica, Arial, sans-serif, STXihei, "华文细黑", "Microsoft Yahei", "微软雅黑";
   font-weight: 900;
+  padding-top:1em;
   @include media-query($on-laptop) {
     font-size: 30px;
   }
